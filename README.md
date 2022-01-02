@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @2022BO
+- 👋 Hi, I’m Suzanne @2022BO
 - 👀 I’m interested in life
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me ...

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suzanne @2022BO
 - 👀 I’m interested in life
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Front-end development
 - 📫 How to reach me ...
 
 <!---
